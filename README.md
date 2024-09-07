@@ -17,4 +17,9 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/dustinober-hub/Explore-Close-Approaches-of-Near-Earth-Objects.git
   ```
-  
+
+### Navigate to the project directory:
+
+```bash
+cd Explore-Close-Approaches-of-Near-Earth-Objects
+```

@@ -1,1 +1,1 @@
-# Explore-Close-Approaches-of-Near-Earth-Objects
+# Explore Close Approaches of Near Earth Objects
